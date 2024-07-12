@@ -75,10 +75,11 @@ You can easily test if the API is working as expected using `curl`
 curl -X POST "http://127.0.0.1:8000/upload-image/" -F "file=@\"IMAGE-PATH-HERE""
 ```
 Sample usage:
-![2024-07-12 00_58_47-Editing defect-detection-task_README md at main · abdulhanan1000_defect-detectio](https://github.com/user-attachments/assets/b353a6b2-00aa-4b58-89f3-56ab07115d6c)
+![2024-07-12 00_58_47-Editing defect-detection-task_README md at main · abdulhanan1000_defect-detectio](https://github.com/user-attachments/assets/049170d0-cfea-475c-9527-9586e39a7fa3)
+
 
 ### Application Sample Usage
-![gif simulation task](https://github.com/user-attachments/assets/cabc3f8a-1b87-4471-99d6-3aa247478343)
+![gif simulation task](https://github.com/user-attachments/assets/91ba00c6-e38d-41e6-8870-d1c99b613500)
 
 
 ## Additional Notes
