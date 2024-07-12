@@ -65,7 +65,7 @@ cd fastAPI-backend
 ```
 2. Start the FastAPI server:
 ```
-uvicorn main --reload
+uvicorn main:app --reload
 ```
 This will run the FastAPI server on "http://127.0.0.1:8000/"
 
